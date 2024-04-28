@@ -12,4 +12,22 @@ This is a Chrome extension.
 
 ## Usage
 
-- Describe how users can use your extension and any features it offers.
+1. Activate the extension:
+
+   - Click on the puzzle piece icon (Extensions) in the Chrome toolbar.
+   - Find your extension and click on the pin icon to pin it to the toolbar.
+   - The extension icon should now appear in the toolbar.
+
+2. Perform a Google search:
+
+   - Go to [Google](https://www.google.com) in a new tab.
+   - Type your search query into the search bar and press Enter.
+
+3. Activate the extension on Google search pages:
+
+   - Once the search results are loaded, click on the extension icon in the Chrome toolbar.
+   - This will open the extension's popup.
+
+4. Scroll down automatically:
+   - In the extension popup, click on the "Scroll Down" button.
+   - The page will automatically scroll down, allowing you to view more search results without manually scrolling.
